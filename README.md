@@ -52,10 +52,3 @@ These inputs contain parameters and thresholds specific to expert operators and 
 - The **`Fit Arrival.ipynb`** notebook includes the full analysis pipeline for processing arrival data, generating histograms, and fitting appropriate input models.
 - All datasets and notebooks are organized to allow reproducible analysis even without access to the proprietary simulation engine.
 
----
-
-If you'd like, I can also add:
-- a directory structure tree  
-- instructions for running the RL model  
-- references to figures in your paper  
-- environment and dependency setup (e.g., `requirements.txt`)  
